@@ -3,6 +3,7 @@
 This is a simple web-based Dice Roller built with HTML, CSS, and JavaScript.
 It allows users to roll a standard six-sided die and displays the corresponding dice face.
 Additionally, it features a roll history logger, so every roll result is stored and displayed in sequence.
+Click this Link to Test a Live demo ==> https://zaidiguy.github.io/Rolling-Dice-with-History-Logger/
 
 🚀 Features
 
